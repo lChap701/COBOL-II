@@ -1,0 +1,207 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DATE: 03/10/2020                                            ERROR REPORT                                                    PAGE:  1
+
+ERROR ONE                A012020033102JOHNNYJOHNJOHNJOHNNYJOHNSONJOHNNYJOHNSON02000V012345678901234520210303                        
+
+CAMPGROUND NEEDS TO BE BUCK CREEK, HONEY CREEK, OR ISLAND VIEW                                                                      
+
+HONEY CREEK              1992020072011ERROR               TWO                 11000M123456789098765420200404                        
+
+SITE MUST HAVE 1 LETTER AND 2 DIGITS                                                                                                
+
+ISLAND VIEW               002020072005ERROR               THREE               05000A987654321012345420251204                        
+
+SITE MUST HAVE 1 LETTER AND 2 DIGITS                                                                                                
+DIGITS IN A SITE MUST BE GREATER THAN 0                                                                                             
+
+BUCK CREEK               D002020011203ERROR               FOUR                03600V012345678910111220300131                        
+
+DIGITS IN A SITE MUST BE GREATER THAN 0                                                                                             
+DATE MUST BE GREATER THAN THE CURRENT DATE                                                                                          
+
+BUCK CREEK               EAA2020011203ERROR               FIVE                03600V112345678910111220200120                        
+
+SITE MUST HAVE 1 LETTER AND 2 DIGITS                                                                                                
+DATE MUST BE GREATER THAN THE CURRENT DATE                                                                                          
+EXPIRATION DATE MUST BE GREATER THAN THE CURRENT DATE                                                                               
+
+HONEY CREEK              F152020000006ERROR               SIX                 03600M012345678910111220200110                        
+
+MONTH MUST BE A NUMBER 1 THROUGH 12                                                                                                 
+THE AMOUNT ENTERED IS INACCURATE FOR THAT SITE                                                                                      
+EXPIRATION DATE MUST BE GREATER THAN THE CURRENT DATE                                                                               
+
+HONEY CREEK              G10AAAAAAAA07ERROR               SEVEN               08400M212345678910111220200230                        
+
+DATE MUST BE NUMERIC                                                                                                                
+EXPIRATION MONTHS WITH 2 HAVE 29 DAYS WHEN ON A LEAP YEAR                                                                           
+
+ISLAND VIEW              H112020023008ERROR               EIGHT               09600A312345678910111220200630                        
+
+MONTH 2 HAS 29 DAYS WHEN ON A LEAP YEAR                                                                                             
+
+ISLAND VIEW              I052021022909ERROR               NINE                10800A412345678910112020190229                        
+
+MONTH 2 HAS 28 DAYS WHEN NOT ON A LEAP YEAR                                                                                         
+THE YEAR OF EXPIRATION CANNOT BE LESS THAN THE CURRENT YEAR                                                                         
+
+BUCK CREEK               J022020043102ERROR               TEN                 12000V567895678956789120200932                        
+
+30 DAY MONTHS ARE 4, 6, 9, AND 11                                                                                                   
+THE AMOUNT ENTERED IS INACCURATE FOR THAT SITE                                                                                      
+30 DAY MONTH EXPIRATION DATES ARE 4, 6, 9, AND 11                                                                                   
+
+HONEY CREEK              K042020043000ERROR               ELEVEN              13200M567895678956789120210731                        
+
+A STAY MUST BE GREATER THAN 1 DAY AND LESS THAN 12 DAYS                                                                             
+
+HONEY CREEK              L602020053101ERROR               TWELEVE             13200M567895678956789120210132                        
+
+A STAY MUST BE GREATER THAN 1 DAY AND LESS THAN 12 DAYS                                                                             
+
+DATE: 03/10/2020                                            ERROR REPORT                                                    PAGE:  2
+                                                                                                                                    
+31 DAY MONTH EXPIRATION DATES ARE 1, 3, 5, 7, 8, 10, AND 12                                                                         
+
+ISLAND VIEW              M602020083112ERROR               THIRTEEN            00200A567895678956789120210228                        
+
+A STAY MUST BE GREATER THAN 1 DAY AND LESS THAN 12 DAYS                                                                             
+
+BUCK CREEK               N082020040113ERROR               FOURTEEN            12800V867530986753090020210220                        
+
+A STAY MUST BE GREATER THAN 1 DAY AND LESS THAN 12 DAYS                                                                             
+
+BUCK CREEK               O102020103104                    ERROR FIFTEEN       000000000000000000000020200101                        
+
+LAST NAME IS REQUIRED                                                                                                               
+THE AMOUNT ENTERED IS INACCURATE FOR THAT SITE                                                                                      
+CREDIT CARD TYPE MUST BE V, M, OR A                                                                                                 
+EXPIRATION DATE MUST BE GREATER THAN THE CURRENT DATE                                                                               
+
+HONEY CREEK              P202019022005ERROR SIXTEEN                           999999999999999999999999999999                        
+
+YEAR CANNOT BE LESS THAN THE CURRENT YEAR                                                                                           
+FIRST NAME IS REQUIRED                                                                                                              
+THE AMOUNT ENTERED IS INACCURATE FOR THAT SITE                                                                                      
+CREDIT CARD TYPE MUST BE V, M, OR A                                                                                                 
+THE MONTH OF EXPIRATION MUST BE A NUMBER 1 THROUGH 12                                                                               
+
+HONEY CREEK              Q782020061405ERROR               SEVENTEEN           00000M999999999999999920200101                        
+
+THE AMOUNT ENTERED IS INACCURATE FOR THAT SITE                                                                                      
+EXPIRATION DATE MUST BE GREATER THAN THE CURRENT DATE                                                                               
+
+ISLAND VIEW              R402020070908ERROR               EIGHTEEN            112001111111111111111120201021                        
+
+CREDIT CARD TYPE MUST BE V, M, OR A                                                                                                 
+
+ISLAND VIEW              S232020093002ERROR               NINETEEN            02800BAAAAAAAAAAAAAAAA20551213                        
+
+CREDIT CARD TYPE MUST BE V, M, OR A                                                                                                 
+CREDIT CARD NUMBER MUST BE NUMERIC                                                                                                  
+
+BUCK CREEK               T432020103002ERROR               TWENTY              02800AAAAAAAAAAAAAAAAAAAAA0623                        
+
+CREDIT CARD NUMBER MUST BE NUMERIC                                                                                                  
+EXPIRATION DATE MUST BE NUMERIC                                                                                                     
+
+BUCK CREEK               U452020121209ERROR               TWENTY-ONE          12600V12345678912345672020AA20                        
+
+EXPIRATION DATE MUST BE NUMERIC                                                                                                     
+
+HONEY CREEK              V652020123110ERROR               TWENTY-TWO          14000M1238904567812345202123AA                        
+
+EXPIRATION DATE MUST BE NUMERIC                                                                                                     
+
+HONEY CREEK              W092020101811ERROR               TWENTY-THREE                                    32                        
+
+THE AMOUNT ENTERED IS NOT NUMERIC                                                                                                   
+
+
+
+DATE: 03/10/2020                                            ERROR REPORT                                                    PAGE:  3
+                                                                                                                                    
+CREDIT CARD TYPE MUST BE V, M, OR A                                                                                                 
+CREDIT CARD NUMBER MUST BE NUMERIC                                                                                                  
+EXPIRATION DATE MUST BE NUMERIC                                                                                                     
+
+ISLAND VIEW              X312020012001ERROR               TWENTY-FOUR         000000000000000000000000000000                        
+
+A STAY MUST BE GREATER THAN 1 DAY AND LESS THAN 12 DAYS                                                                             
+DATE MUST BE GREATER THAN THE CURRENT DATE                                                                                          
+CREDIT CARD TYPE MUST BE V, M, OR A                                                                                                 
+THE MONTH OF EXPIRATION MUST BE A NUMBER 1 THROUGH 12                                                                               
+
+ISLAND VIEW              Y312021012002ERROR               TWENTY-FIVE         02800Z000000000000000000000000                        
+
+CREDIT CARD TYPE MUST BE V, M, OR A                                                                                                 
+THE MONTH OF EXPIRATION MUST BE A NUMBER 1 THROUGH 12                                                                               
+
+BUCK CREEK               Z112021013103ERROR               TWENTY-SIX          000000111100011001100120200406                        
+
+THE AMOUNT ENTERED IS INACCURATE FOR THAT SITE                                                                                      
+CREDIT CARD TYPE MUST BE V, M, OR A                                                                                                 
+
+
+TOTAL RECORDS: 26                                                                                                                   
+
+TOTAL ERRORS:  55                                                                                                                   

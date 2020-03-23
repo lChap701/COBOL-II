@@ -1,0 +1,26 @@
+{
+  "version": "4.0",
+  "cobol": {
+    "directives": {
+      "**/*": [
+        "nognt",
+        "int()",
+        "anim",
+        "max-error\"100\""
+      ],
+      "COBLSC01.cbl": [
+        "nologo",
+        "int\"C:.\\bin\\x86\\Debug\\COBLSC01.int\"",
+        "visualstudio\"3\"",
+        "anim",
+        "cobidy\"obj\\x86\\Debug\\\"",
+        "sourcetabstop\"4\"",
+        "noquery",
+        "warnings\"1\"",
+        "max-error\"100\"",
+        "noobj\"C:.\\bin\\x86\\Debug\\COBLSC01.int\"",
+        "xtraint"
+      ]
+    }
+  }
+}

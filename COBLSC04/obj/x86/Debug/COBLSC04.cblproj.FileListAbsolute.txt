@@ -1,0 +1,2 @@
+C:\IHCC\Spring Term 2020\Cobol II\COBLSC04\bin\x86\Debug\COBLSC04.idy
+C:\IHCC\Spring Term 2020\Cobol II\COBLSC04\obj\x86\Debug\COBLSC04.idy

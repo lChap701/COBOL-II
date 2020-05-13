@@ -1,0 +1,4 @@
+^C:\IHCC\SPRING TERM 2020\COBOL II\COBLSC03\COBLSC03.CBL
+MFCBT_Directives=int"C:.\bin\x86\Release\COBLSC03.int" noanim sourcetabstop"4" noquery warnings"1" max-error"100" delint gnt"C:.\bin\x86\Release\COBLSC03.gnt" xtraint . MFCBT_CopyPaths=
+^C:\IHCC\SPRING TERM 2020\COBOL II\COBLSC03\CBLLOAD.CBL
+MFCBT_Directives=int"C:.\bin\x86\Release\CBLLOAD.int" noanim sourcetabstop"4" noquery warnings"1" max-error"100" delint gnt"C:.\bin\x86\Release\CBLLOAD.gnt" xtraint . MFCBT_CopyPaths=
